@@ -1,0 +1,10 @@
+744 [main] INFO  Test.FillFormBasicTest - start test
+807 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+1582 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=122 in cache (valid until 13:02:36 14/03/2024 CET)
+1584 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome122=122.0.6261.128 in cache (valid until 12:02:36 15/03/2024 CET)
+1588 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+1642 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 122.0.6261.128 found in cache
+1650 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\katarzyna.wyrzykiewi\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+5933 [main] INFO  Test.FillFormBasicTest - stop test
+5934 [main] DEBUG Test.FillFormBasicTest - Wiadomosc z debugera
+6315 [main] INFO  Test.FillFormBasicTest - zamkniecie całego procesu przeglądarki

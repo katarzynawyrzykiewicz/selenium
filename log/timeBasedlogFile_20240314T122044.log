@@ -1,0 +1,2 @@
+1062 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+1102 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\katarzyna.wyrzykiewi\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
