@@ -1,0 +1,3 @@
+4205 [main] INFO  tests.FillFormBasicTest - Test stop
+4225 [main] DEBUG tests.FillFormBasicTest - debug test
+4563 [main] INFO  tests.FillFormBasicTest - Przeglądarka zamknięta
